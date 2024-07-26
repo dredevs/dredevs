@@ -8,7 +8,7 @@
 
 <div align=center>
   <a href="https://git.io/streak-stats"><img width=410 src="https://streak-stats.demolab.com?user=dredevs&theme=react&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=frostyeahh&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=dredevs&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   
   <div align="left">
   <br>

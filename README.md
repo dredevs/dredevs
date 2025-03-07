@@ -11,3 +11,4 @@ Outside of college and work, I enjoy playing sports, playing video games, and fr
 ### Let's Connect!
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/aalvarezm)
+[<img_alt="Discord"_src="https://dcbadge.limes.pink/api/shield/80466027344415951" />]

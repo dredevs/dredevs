@@ -4,7 +4,7 @@ I'm [**Andres**](https://aalvarez.cc), Self-Taught Software Developer and Multim
 
 I am currently a college student, majoring in computer science and minoring in film production, and have developed a minecraft network that accumulated 200+ concurrent players.
 
-I primarily focus on backend infrastructure, large-scaled projects, and have used numerous programming languages to support my projects, as well as databases.
+I primarily focus on backend infrastructure, but can also do frontend, I can also do large-scaled projects, and have used numerous programming languages to support my projects, as well as databases.
 
 Outside of college and work, I enjoy playing sports, playing video games, and doing videography and photography.
 

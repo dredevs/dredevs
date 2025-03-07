@@ -6,7 +6,7 @@ I am currently a college student, majoring in computer science and minoring in f
 
 I primarily focus on backend infrastructure, large-scaled projects, and have used numerous programming languages to support my projects, as well as databases.
 
-Outside of college and work, I enjoy playing sports, playing video games, and freelancing in the videograpy/photgraphy field.
+Outside of college and work, I enjoy playing sports, playing video games, and doing videography and photography.
 
 ### Let's Connect!
 

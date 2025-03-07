@@ -2,9 +2,11 @@
 
 I'm [**Andres**](https://aalvarez.cc), a self-taught software developer and multimedia specialist based in California.
 
-I am currently a college student, majoring in computer science, and have developed a minecraft network that accumulated 200+ concurrent players.
+I am currently a college student, majoring in computer science and minoring in film production, and have developed a minecraft network that accumulated 200+ concurrent players.
 
 I primarily focus on backend infrastructure, large-scaled projects, and have used numerous programming languages, as well as databases.
+
+Outside of college and work, I enjoy playing sports, playing video games, and freelancing in the videograpy/photgraphy field.
 
 ### Let's Connect!
 
